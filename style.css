@@ -1,0 +1,35 @@
+body, html{
+margin:0;
+padding:0;
+}
+
+#poeme{
+width:500px;
+margin:auto;
+text-align: justify;
+}
+
+h1{
+text-align:center;
+font-family:"Bebas Neue";
+letter-spacing: 3px;
+}
+
+p{
+font-family:"Montserrat";	
+}
+
+img{
+width:200px;
+height:200px;
+}
+
+figure{
+text-align:center;	
+}
+
+figcaption{
+font-size:10px;
+font-style:italic; 
+font-family:"Montserrat";	
+}
